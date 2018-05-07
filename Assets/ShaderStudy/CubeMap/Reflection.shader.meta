@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: aeb4c49d64c2eea488292f6e2229f4a1
+timeCreated: 1525695730
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Cubemap: {fileID: 8900000, guid: 36b3fd3a5ef3fc74e9c65790df830303, type: 2}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
